@@ -15,5 +15,11 @@ But we are going to implement a Content based recommendation system using the sc
 ## Popular Movies:
 ![image](https://user-images.githubusercontent.com/103682825/176397333-150fae88-0547-4e07-88ec-817b76eb0e0a.png)
 
+## What is Cosine Similarity and How does it work?
+Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space.
+
+It is a numerical value, ranges between 0 to 1 which helps to determine how much two items are similar or close to each other on a scale of 0 to 1. This similarity score is obtained by measuring the similarity between the text details of both of the items.
+![image](https://user-images.githubusercontent.com/103682825/176416345-5dcc05f6-18c3-4540-ba64-6c079a0f480c.png)
+
 ## Conclusion:
 In this movie recommendation system, we build a recommender model while taking the inputs of the user and recommended 5 similar movies.
