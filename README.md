@@ -16,4 +16,4 @@ But we are going to implement a Content based recommendation system using the sc
 ![image](https://user-images.githubusercontent.com/103682825/176397333-150fae88-0547-4e07-88ec-817b76eb0e0a.png)
 
 ## Conclusion:
-In this movie recommendation system, we tried to build a recommender model while taking the inputs of the user and recommend similar movies.
+In this movie recommendation system, we build a recommender model while taking the inputs of the user and recommended 5 similar movies.
