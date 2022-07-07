@@ -1,7 +1,5 @@
 # Content-Based-Movie-Recommendation-System
 Content Based Movie Recommendation System using Machine Learning(Scikit-Learn)
-![image](https://user-images.githubusercontent.com/103682825/177697363-a1bc561b-40c0-4ee7-843a-53dca5bdc7d9.png)
-
 
 ## Overview:
 We are going to build a model that takes a movie title as an input and output a list of the 5 most similar movies. Firstly, for this we need a mechanism to identify the index of a movie in our metadata DataFrame, given its title.
